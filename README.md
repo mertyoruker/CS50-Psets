@@ -1,1 +1,1 @@
-# CS50 Psets
+Contains Harvard CS50 Problem Set Solutions
